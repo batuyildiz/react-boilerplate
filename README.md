@@ -6,6 +6,7 @@ Yet Another react-boilerplate.
 
 Name|Version|Link
 ----|-------|----
+Express|4.16.4|
 Babel-loader|v7.1.5|
 Webpack|v4.25.0|
 Jest|v23.6.0|
