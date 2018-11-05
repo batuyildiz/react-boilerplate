@@ -1,7 +1,7 @@
-import React, {Component} from 'react'
+import React from 'react';
 
-export default class App extends Component {
-  render() {
-    return <div>Yet another React Boilerplate</div>;
-  }
+function App({ children }) {
+  return <div>{children}</div>;
 }
+
+export default App;
